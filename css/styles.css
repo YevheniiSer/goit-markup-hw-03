@@ -104,7 +104,7 @@ img {
 .address-list {
     display: flex;
     gap: 40px;
-    margin: 24px 0;
+    padding: 24px 0;
 }
 
 /*hero-section*/
@@ -293,7 +293,6 @@ img {
     gap: 17.5px;
 }
 .footer-logo-main {
-    display: inline-block;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     color: #4D5AE5;
