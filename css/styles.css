@@ -52,6 +52,7 @@ img {
 
 .header {
     border-bottom: 1px solid #E7E9FC;
+    padding: 24px 0;
 }
 
 .header-nav{
@@ -89,7 +90,6 @@ img {
 .nav-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 .nav-mail-tel {
     font-size: 16px;
@@ -104,7 +104,6 @@ img {
 .address-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 /*hero-section*/
@@ -302,3 +301,6 @@ img {
     letter-spacing: 0.03em;
     margin-bottom: 16px;
     }
+.footer-logo-main {
+    display: inline-block;
+}
