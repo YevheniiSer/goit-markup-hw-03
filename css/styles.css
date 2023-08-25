@@ -37,7 +37,6 @@ ul, ol {
     min-height: 100vh;
 }
 .container {
-    display: flex;
     max-width: 1158px;
     margin-left: auto;
     margin-right: auto;
