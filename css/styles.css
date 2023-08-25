@@ -91,6 +91,9 @@ img {
     gap: 40px;
     padding: 24px 0;
 }
+.nav-list-item {
+
+}
 .nav-mail-tel {
     font-size: 16px;
     color: #434455;
