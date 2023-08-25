@@ -52,6 +52,7 @@ img {
 
 .header {
     border-bottom: 1px solid #E7E9FC;
+    padding: 24px 0;
 }
 
 .header-nav{
@@ -95,6 +96,7 @@ img {
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
+    padding: 24px 0;
 }
 .nav-mail-tel:hover,
 .nav-mail-tel:focus {
@@ -279,6 +281,7 @@ img {
     text-transform: uppercase;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    display: inline-block;
 }
 .footer-text {
     letter-spacing: 0.02em;
